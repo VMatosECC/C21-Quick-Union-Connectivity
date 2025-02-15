@@ -11,7 +11,8 @@
     -The root of the tree represents the group.
     -The Quick Union algorithm is more efficient than Quick Find because
     it uses the root of the tree to determine if two elements are in the same group.
-    -The Quick Union algorithm has a time complexity of O(N) for union and find operations.
+    -The Quick Union algorithm has a time complexity of O(N) for union and find operations
+     worst case scenario.
 
     References: https://algs4.cs.princeton.edu/15uf/
 
